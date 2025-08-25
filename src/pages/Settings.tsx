@@ -280,7 +280,7 @@ const Settings = () => {
                   Connect with third-party services and manage integrations
                 </CardDescription>
               </CardHeader>
-              <CardContent className="space-y-4">
+              {/* <CardContent className="space-y-4">
                 <div className="space-y-4">
                   <div className="flex items-center justify-between p-4 border rounded-lg">
                     <div className="flex items-center gap-3">
@@ -330,7 +330,7 @@ const Settings = () => {
                 </div>
                 <Separator />
                 <Button className="w-full">Browse More Integrations</Button>
-              </CardContent>
+              </CardContent> */}
             </Card>
           </div>
         </div>
